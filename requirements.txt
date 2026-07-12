@@ -1,0 +1,12 @@
+streamlit
+pdfplumber
+python-docx
+spacy
+scikit-learn
+opencv-python-headless
+pandas
+nltk
+pillow
+numpy
+textblob
+pytesseract
